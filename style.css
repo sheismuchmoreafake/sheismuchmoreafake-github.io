@@ -1,0 +1,8 @@
+/*style is everything*/
+.filtered {
+  -webkit-filter: url(#f1);
+  filter: url(#f1);
+}
+  body {
+    font: 16px Arial, sans-serif;
+}

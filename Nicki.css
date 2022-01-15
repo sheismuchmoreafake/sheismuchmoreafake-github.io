@@ -11,8 +11,8 @@ mark {
 }
 .glowbox {
     background: #f2f3f4; 
-    width: 400px;
-    height: 1000px;
+    width: 500px;
+    height: 400px;
     padding: 10px;
     -moz-box-shadow: 0 0 5px 5px #ddd;
     -webkit-box-shadow: 0 0 5px 5px#ddd;

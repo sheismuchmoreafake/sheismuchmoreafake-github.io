@@ -1,0 +1,21 @@
+body {
+    background: #00002e; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+mark {
+  background-color: #800080;
+  color: black;
+}
+.glowbox {
+    background: #f2f3f4; 
+    width: 400px;
+    height: 500px;
+    margin: 40px 0 0 40px;
+    padding: 10px;
+    -moz-box-shadow: 0 0 5px 5px #ddd;
+    -webkit-box-shadow: 0 0 5px 5px#ddd;
+    box-shadow: 0 0 5px 5px #ddd;
+}

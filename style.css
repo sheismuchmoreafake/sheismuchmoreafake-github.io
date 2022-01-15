@@ -3,6 +3,10 @@
   -webkit-filter: url(#f1);
   filter: url(#f1);
 }
+mark {
+  background-color: #800080;
+  color: black;
+}
   body {
     font: 16px Arial, sans-serif;
     background-color: #f2f3f4;
